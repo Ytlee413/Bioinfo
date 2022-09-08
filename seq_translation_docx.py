@@ -97,4 +97,12 @@ for record in files:
 
 tab.save("seq_translated.docx")
 
+"""
+when encounter:
+from exceptions import PendingDeprecationWarning
+ModuleNotFoundError: No module named 'exceptions'
+
+run:
+pip install python-docx
+"""
 
