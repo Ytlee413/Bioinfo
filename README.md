@@ -1,4 +1,4 @@
-# Protein Sequence Toolkit 🧬
+# Plasmid Sequencing Toolkit 🧬
 
 A bioinformatics toolkit designed to simplify plasmid sequencing analysis for researchers.
 
